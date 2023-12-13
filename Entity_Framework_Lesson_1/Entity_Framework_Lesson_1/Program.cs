@@ -24,7 +24,7 @@ namespace Entity_Framework_Lesson_1
             //Console.WriteLine("Данные успешно длбавлены в БД");
 
 
-
+            //EntityFrameWorkcore.SQLlite
 
             // ПОЛУЧЕНИЕ ДАННЫХ ИЗ БД
             using (DataBaseContext context = new DataBaseContext())
