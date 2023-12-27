@@ -28,3 +28,9 @@
 \\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\obj\Debug\net6.0\Theme_34_ConnectionString.pdb
 \\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\obj\Debug\net6.0\Theme_34_ConnectionString.genruntimeconfig.cache
 \\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\obj\Debug\net6.0\ref\Theme_34_ConnectionString.dll
+\\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+\\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+\\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+\\server\share\Чёрный\ПОБ2213\Помелов М.А\Theme_34_ConnectionString\Theme_34_ConnectionString\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll

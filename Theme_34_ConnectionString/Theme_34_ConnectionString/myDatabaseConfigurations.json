@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server=192.168.10.170;database=remote_database;user=cifra-student-remote;password=Cifra39"
+  }
+}
